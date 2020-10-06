@@ -1,3 +1,4 @@
 sum = a + b
 minus = a - b
+multiply = a x b
 divide = a/b 
