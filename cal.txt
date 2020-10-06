@@ -1,2 +1,3 @@
 sum = a + b
-divide = a/b
+minus = a - b
+divide = a/b 
